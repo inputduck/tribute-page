@@ -1,0 +1,1 @@
+v1. HTML Skeleton put in place. Next stage - Basic styling and layout.
